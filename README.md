@@ -17,13 +17,14 @@ During his research, he has developed several techniques and methods and impleme
 
 ## Motivation
 
-[AI](https://user-images.githubusercontent.com/2682705/53604690-529e7780-3c09-11e9-8f3f-481e341ee46a.gif)
+![I love AI](https://user-images.githubusercontent.com/2682705/53604690-529e7780-3c09-11e9-8f3f-481e341ee46a.gif)
 
-The raise of Artificial Intelligence and machine learning launched a new industrial revolution, changing ways we perform our routine tasks on daily basis. This revolution is attributed to the immense computational power we control and the vast amount of data that we generate, allowing AI to learn from it and apply on its own goals. Virtual Reality \(VR\) and Augmented Reality \(AR\) became one of the major players in this revolution, estimating $100 billion revenue on VR/AR products by 2021.
+The raise of Artificial Intelligence and machine learning launched a new industrial revolution, changing ways we perform our routine tasks on daily basis. This revolution is attributed to the immense computational power we control and the vast amount of data that we generate, allowing AI to learn from it and apply on its own goals. Virtual Reality \(VR\) and Augmented Reality \(AR\) became one of the major players in this revolution, estimating \$100 billion revenue on VR/AR products by 2021.
 
 Surprisingly, the crucial connection between AR/VR and AI is currently very weak. Both technologies being very demanding on resources, renders most AI applications impossible to use in AR/VR. Therefore, we need to seek new ways, empowering our tasks with visual power of mixed realities with help from Artificial Intelligence to reduce our cognitive overload and help with decision making in high-stress situations such as cyber security, space exploration, data analytics, healthcare, simulations and much more.
 
-## Some text
+## Projects
+
+## Awards
 
 I think this is ignored ![img](https://media.giphy.com/media/3kD4NFXv0ckzucLfR4/giphy.gif)
-
