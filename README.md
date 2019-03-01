@@ -7,16 +7,17 @@ description: >-
 
 # About Me
 
-Tomas’s research flows through several realities, virtual, augmented and the real one, seeking new ways with Artificial Intelligence to facilitate complex cognitive tasks in simulation, education, health care, cyber security and social sciences. Dr. Tomas Trescak holds a PhD title in Computer Science with specialisation in artificial intelligence from Artificial Intelligence Research Institute, Barcelona, Spain \(IIIA\) of the Spanish Research Council \(CSIC\). Since May 2013, he works at Western Sydney University, where in 2016 he incorporated as Lecturer.
+Tomas’s research flows through several realities, virtual, augmented and the real one, seeking new ways with Artificial Intelligence to facilitate complex cognitive tasks in simulation, education, health care, cyber security and social sciences. Dr. Tomas Trescak holds a PhD title in Computer Science with specialisation in artificial intelligence from Artificial Intelligence Research Institute, Barcelona, Spain (IIIA) of the Spanish Research Council (CSIC). Since May 2013, he works at Western Sydney University, where in 2016 he incorporated as Lecturer.
 
 ![Dr Tomas Trescak](https://user-images.githubusercontent.com/2682705/53604862-cd679280-3c09-11e9-9742-fd35750c8643.jpg)
 
 **The topics of my research concern:**
 
-- mixed realities
+- mixed reality (VR/AR/XR)
+- artificial intelligence
+- cyber security
 - healthcare technologies
 - machine learning
-- interactive virtual
 - intelligent virtual agents
 - crowd simulations and
 - computational creativity techniques, such as shape grammars.
