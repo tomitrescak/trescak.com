@@ -16,5 +16,21 @@
 
 ## Open Source
 
-- [DynaForm](open-source/dynaform.md)
-- [Luis](open-source/luis.md)
+- [DynaForm](projects/dynaform.md)
+- [Luis](projects/luis.md)
+  - [Getting Started](projects/luis/getting_started.md)
+  - [Components](projects/luis/getting_started.md)
+    - [Catalogue](projects/luis/getting_started.md)
+    - [Test Viewer](projects/luis/getting_started.md)
+    - [Snapshot Viewer](projects/luis/getting_started.md)
+  - [Configuration](projects/luis/getting_started.md)
+    - [Standalone](projects/luis/getting_started.md)
+    - [Custom Route](projects/luis/getting_started.md)
+  - [Builders](projects/luis/getting_started.md)
+    - [Fuse-Box](projects/luis/getting_started.md)
+    - [Parcel](projects/luis/getting_started.md)
+    - [Webpack](projects/luis/getting_started.md)
+  - [Test Runners](projects/luis/getting_started.md)
+    - [Jest](projects/luis/getting_started.md)
+    - [Mocha](projects/luis/getting_started.md)
+    - [Jasmine](projects/luis/getting_started.md)
