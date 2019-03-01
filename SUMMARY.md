@@ -12,6 +12,7 @@
 - [Machine Learning](research/machine-learning.md)
 - [Procedural Content](research/procedural-content.md)
 - [Cyber Security](research/cyber-security.md)
+- [Healthcare](research/sphere.md)
 
 ## Open Source
 

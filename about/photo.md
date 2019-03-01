@@ -1,6 +1,6 @@
 ---
 description: >-
-  If you ever need my portrait for whatever purpose please use the following photograph.
+  If you ever need my portrait please use the following photograph and please adhere to the copyright issues below.
 ---
 
 # Photo
