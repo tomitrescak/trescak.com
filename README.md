@@ -29,6 +29,8 @@ In open source I am a big fan and contributor to several open-source initiatives
 - GraphQL
 - Typescript
 
+My ORCID profile page can be found at: https://orcid.org/0000-0002-2540-6002
+
 ## Motivation
 
 ![I love AI](https://user-images.githubusercontent.com/2682705/53604690-529e7780-3c09-11e9-8f3f-481e341ee46a.gif)
