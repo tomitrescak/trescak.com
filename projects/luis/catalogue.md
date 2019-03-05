@@ -18,7 +18,7 @@ Then visit: `http://localhost:9001` and you will see the friendly Luis interface
 
 ![Luis](https://user-images.githubusercontent.com/2682705/53632273-9a082080-3c68-11e9-806a-52ee73e93b75.png)
 
-# Setup
+# Manual Setup
 
 If you wish to configure Luis in your own project, following are the instructions on how we created this project. Please skip steps which you have already performed.
 
@@ -34,7 +34,7 @@ yarn add @types/react
 yarn luis --init
 ```
 
-The last command `yarn luis --init` adds a `src/luis.ts` file to your project. Please see [configuration](#) page for more options on how to init and run luis. When the project is initialised, we are reasdy coding our own component `greeting.ts`:
+The last command `yarn luis --init` adds a `src/luis.ts` file to your project. Please see [configuration](#) page for more options on how to init and run luis. When the project is initialised, we are ready coding our own component `greeting.ts`:
 
 ```ts
 import * as React from 'react';
@@ -53,7 +53,15 @@ describe('Greeting', () => {
 });
 ```
 
-In our example, all components are added to catalogue in `*.test` files. You can also add components in following files:
+Once you are ready just run following and go to http://localhost:9001:
+
+```
+yarn luis
+```
+
+# Advanced Configuration
+
+In our example, all components are added to catalogue in `*.story` files. You can also add components in following files:
 
 - `*.test`
 - `*.fixture`
@@ -65,7 +73,7 @@ or in following directories:
 - `/__fixtures__/*`
 - `/__stories__/*`
 
-The main file, where we load all tests is in the default location `src/luis.ts`, with the content below.
+The main file, where we load all tests is in the default location `src/luis.ts`, with the content below. Please add all your global imports in this file.
 
 ```ts
 import { renderLuis } from 'luis';
@@ -80,12 +88,6 @@ renderLuis({
 });
 ```
 
-Once you are ready just run following and go to http://localhost:9001:
-
-```
-yarn luis
-```
-
 # Tests
 
-This setup does not support tests. If you want to see Luis with tests and snapshots, please see the `snapshots` example (TBA).
+This setup does not support tests. If you want to see Luis with tests and snapshots, please see the [following chapter](test.md).

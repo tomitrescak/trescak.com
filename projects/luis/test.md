@@ -9,7 +9,7 @@ Luis can visualise your test result alongside your components. This can be confi
 2. Test result
 3. Test length
 4. Test snapshots
-5. Total of passing and failing tests of all test suites, as well as per test suite
+5. Total number of passing and failing tests of all test suites, as well as per test suite
 
 ![Test Viewer](https://user-images.githubusercontent.com/2682705/53708428-8b4b8480-3e87-11e9-8ccf-c2b93c36670d.png)
 
@@ -47,34 +47,16 @@ tsc --init
 yarn add luis fuse-box jest-cli react-test-renderer
 yarn add ts-jest typescript @types/react @types/jest @types/react-test-renderer @types/node
 yarn ts-jest config:init
-yarn luis --init --tests
+yarn luis --init --tests jest
 ```
 
-The last command `yarn luis --init --tests` adds a `src/luis.ts` file to your project. Please see [cli](cli) page for more options on how to init and run luis.
+Please visit the `tsconfig.json` to adjust your values. We have enabled `jsx: react` to enable React.
 
-## Configure Test Runner
-
-[testrunner]: TestRunner
-
-We need to configure our test runner to report data needed by Luis. Luis reads test results from a specified file in JSON format. To create the desired test report, please add following to your `jest.config.js` file:
-
-```json
-{
-  "reporters": [
-    [
-      "luis/jest/reporter",
-      {
-        "path": "src/summary.ts",
-        "merge": true
-      }
-    ]
-  ]
-}
-```
+The last command `yarn luis --init --tests jest` adds a `src/luis.ts` file to your project. Please see [cli](cli) page for more options on how to init and run luis. Also, we are using Jest in this example. Please see the documentation for your test framework ([Jest](jest.md), [Mocha](mocha.md), [Jasmine](jasmine.md)).
 
 ## Create Component and Test
 
-The reporter contains some configuration options for setting the target files or merging results. Please explore these in the documentation. We are now ready to code and test our component `greeting.ts`:
+The reporter contains some configuration options for setting the target files or merging results. Please explore these in the documentation. We are now ready to code and test our component `greeting.tsx`:
 
 ```ts
 import * as React from 'react';
@@ -83,7 +65,7 @@ type Props = { name: string };
 export const Greeting: React.FC<Props> = ({ name }) => <div>Hello {name}</div>;
 ```
 
-We import it into the catalogue in the `greeting.test.ts` spec file using standard test notation with `describe` and `it`. Each nested `describe` creates a sub-directory in the catalogue.
+We import it into the catalogue in the `greeting.test.tsx` spec file using standard test notation with `describe` and `it`. Each nested `describe` creates a sub-directory in the catalogue.
 
 ```ts
 import React from 'react';
@@ -108,6 +90,22 @@ describe('Greeting', () => {
 });
 ```
 
+## Run Tests and Luis
+
+We need to run tests, you can either run tests once with `yarn jest` or run them in watch mode, e.g. `yarn jest --watch`. It is advisable to run all tests at least once.
+
+```
+yarn jest
+```
+
+Once you are ready just run following and go to http://localhost:9001:
+
+```
+yarn luis
+```
+
+### Custom Setup
+
 > In our example, all components are added to catalogue in `*.test` files. You can also add components in following files:
 >
 > - `*.test`
@@ -120,16 +118,10 @@ describe('Greeting', () => {
 > - `/__fixtures__/*`
 > - `/__stories__/*`
 
-Once you are ready just run following and go to http://localhost:9001:
-
-```
-yarn luis
-```
-
 ### Snapshots
 
 You can also visualise the snapshot and compare it for possible errors:
 
-![Snapshot](https://user-images.githubusercontent.com/2682705/53712444-fb173a80-3e9a-11e9-8b1a-54b69ccce8d5.png)
+![Snapshots](https://user-images.githubusercontent.com/2682705/53784422-4e57be80-3f69-11e9-9d42-85ff87c5271e.gif)
 
 To learn more about snapshots please see [snapshots](snapshots.md) section.

@@ -7,14 +7,14 @@ description: >-
 
 ![](https://user-images.githubusercontent.com/2682705/31411885-c22597e4-ae5e-11e7-8ea0-fa93b62596fd.png)
 
-Luis aims to simplify React component development along with component maintenance and presentation. It shows test results and visualises and compares your stored code-based or image-based snapshots. It can run as a [standalone application](luis/standalone.md), or as [part of your app](luis/router.md). It supports several bundlers such as Fuse-Box, Parcel or Webpack and several testing frameworkd, such as Jest, Mocha or Jasmine.
+Luis aims to simplify React component development and testing along with [component maintenance, and presentation](catalogue.md). It [visualises test results](test.md) and [compares your stored code-based or image-based snapshots](snapshots.md). It can run as a standalone application, or [ run as a part of your app](route.md). It supports several bundlers such as [Fuse-Box](fuse-box.md), [Parcel](parcel.md) or [Webpack](webpack.md) and several testing frameworkd, such as [Jest](jest.md), [Mocha](mocha.md) or [Jasmine](jasmine.md). It even has a [cool **dark theme**](options.md) :)
 
 ### Alternatives
 
 Before we go about trying to convince you how awesome Luis are, please consider also alternatives, which server us as a great source of inspiration:
 
-1. [StoryBook](https://github.com/storybooks/storybook) - The first one, the most famous one, the most flexible on
-2. [Cosmos](https://github.com/react-cosmos/react-cosmos) - The coolest one, we took Proxies frome these guys
+1. [StoryBook](https://github.com/storybooks/storybook) - The first one, the most famous one, the most flexible one
+2. [Cosmos](https://github.com/react-cosmos/react-cosmos) - The coolest one, we took [proxies](proxies.md) from these guys
 3. [Styleguidist](https://github.com/styleguidist/react-styleguidist) - The long one
 
 ### Easy as 1, 2 ... 3.
