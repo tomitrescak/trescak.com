@@ -3,13 +3,7 @@ description: >-
   Luis can visualise your test results
 ---
 
-Luis can visualise your test result alongside your components. This can be configured for all major test suites ([Jest](jest.md), [Mocha](mocha.md), [Jasmine](jasmine.md)). Test results display following information:
-
-1. Test name
-2. Test result
-3. Test length
-4. Test snapshots
-5. Total number of passing and failing tests of all test suites, as well as per test suite
+Luis can visualise your test result alongside your components. This can be configured for all major test suites ([Jest](jest.md), [Mocha](mocha.md), [Jasmine](jasmine.md)).
 
 ![Test Viewer](https://user-images.githubusercontent.com/2682705/53708428-8b4b8480-3e87-11e9-8ccf-c2b93c36670d.png)
 
@@ -25,15 +19,15 @@ yarn test
 yarn run luis
 ```
 
-Important here is to run tests with `yarn test`. This generates your test results. Visit: `http://localhost:9001` and you will see the friendly Luis interface:
+To see the test results you need to run `yarn test` or `npm test`. This will run `jest`, which will generate your test results. Visit: `http://localhost:9001` to see the friendly Luis interface:
 
 ![Luis](https://user-images.githubusercontent.com/2682705/53632273-9a082080-3c68-11e9-806a-52ee73e93b75.png)
 
 # Manual Setup
 
-> If you are only adding tests to your existing Luis catalogue, please skip to the [Configure Test Runner][testrunner].
+> If you are only adding tests to your existing Luis catalogue, please visit the instructions page of your test framework, ([Jest](jest.md), [Mocha](mocha.md), [Jasmine](jasmine.md)).
 
-If you wish to configure Luis in your own project for your own combination of tools, following are the instructions on how we created this project. Please skip steps which you have already performed and use your own tool-chain. Also, this setup uses Jest as your test runner and FuseBox as your bundler. If you want to use something different, please read the documentation related to your tool-chain.
+Following instructions will help you setup Luis in your project. Please skip steps which you have already performed and use your own tool-chain. We uses `Jest` as our test runner and `FuseBox` as the bundler. If you want to use something different, please read the documentation related to your tool-chain.
 
 ## Create Project
 
@@ -55,6 +49,8 @@ Please visit the `tsconfig.json` to adjust your values. We have enabled `jsx: re
 The last command `yarn luis --init --tests jest` adds a `src/luis.ts` file to your project. Please see [cli](cli) page for more options on how to init and run luis. Also, we are using Jest in this example. Please see the documentation for your test framework ([Jest](jest.md), [Mocha](mocha.md), [Jasmine](jasmine.md)).
 
 ## Create Component and Test
+
+<a name="testrunner"></a>
 
 The reporter contains some configuration options for setting the target files or merging results. Please explore these in the documentation. We are now ready to code and test our component `greeting.tsx`:
 

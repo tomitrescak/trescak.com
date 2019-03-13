@@ -7,7 +7,7 @@ description: >-
 
 ![](https://user-images.githubusercontent.com/2682705/31411885-c22597e4-ae5e-11e7-8ea0-fa93b62596fd.png)
 
-Luis aims to simplify React component development and testing along with [component maintenance, and presentation](catalogue.md). It [visualises test results](test.md) and [compares your stored code-based or image-based snapshots](snapshots.md). It can run as a standalone application, or [ run as a part of your app](route.md). It supports several bundlers such as [Fuse-Box](fuse-box.md), [Parcel](parcel.md) or [Webpack](webpack.md) and several testing frameworkd, such as [Jest](jest.md), [Mocha](mocha.md) or [Jasmine](jasmine.md). It even has a [cool **dark theme**](options.md) :)
+Luis aims to simplify React component development and testing along with [component maintenance, and presentation](./luis/catalogue.md). It [visualises test results](./luis/test.md) and [compares your stored code-based or image-based snapshots](./luis/snapshots.md). It can run as a standalone application, or [ run as a part of your app](./luis/route.md). It supports several bundlers such as [Fuse-Box](./luis/fuse-box.md), [Parcel](./luis/parcel.md) or [Webpack](./luis/webpack.md) and several testing frameworkd, such as [Jest](./luis/jest.md), [Mocha](./luis/mocha.md) or [Jasmine](./luis/jasmine.md). It even has a [cli](./luis/cli) to get you started and a [cool **dark theme**](./luis/options.md) :)
 
 ### Alternatives
 

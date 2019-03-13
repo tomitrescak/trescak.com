@@ -53,6 +53,8 @@ describe('Greeting', () => {
 });
 ```
 
+Please note that we have returned component from the `describe` statement as `return { component: Greeting }`. apart from the component, you can configure one or several [proxies](./proxy.md), for example to mock `fetch`, `context` or `graphql` queries.
+
 Once you are ready just run following and go to http://localhost:9001:
 
 ```
