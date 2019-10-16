@@ -2,6 +2,10 @@
 
 Following is a list of selected publications. You can find further information on my ORCID page: https://orcid.org/0000-0002-2540-6002
 
+- **Using Game Description Language for mediated dispute resolution**
+  - _AI & Society,
+  - 2019-12 | journal-article
+  - DOI: https://doi.org/10.1007/s00146-017-0790-8
 - **Simulating complex social behaviours of virtual agents through case-based planning**
   - _Computers & Graphics_,
   - 2018-12 | journal-article
