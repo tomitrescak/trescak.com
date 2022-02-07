@@ -7,6 +7,7 @@
 
 ## Research
 
+- [Plagiarism Detection](research/plagiarism.md)
 - [Mixed Realities](research/mixed-realities.md)
 - [Artificial Intelligence](research/artificial-intelligence.md)
 - [Machine Learning](research/machine-learning.md)
