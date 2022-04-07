@@ -1,11 +1,12 @@
 ---
 description: >-
-  If you ever need my portrait please use the following photograph and please adhere to the copyright issues below.
+  If you ever need my portrait please use the following photograph and please
+  adhere to the copyright issues below.
 ---
 
 # Photo
 
-![Dr. Tomas Trescak](https://user-images.githubusercontent.com/2682705/53604866-d193b000-3c09-11e9-9d9a-87be8925dc62.jpg)
+![](../.gitbook/assets/CDMS1\_38356.jpg)
 
 ## Copyright
 
