@@ -16,7 +16,9 @@ description: >-
 
 Explainable planning systems facilitate understanding of system decisions and challenge them through investigatory dialogue, with social, selective and contrastive explanations. When aiming at end-user explanations systems often require capturing and communicating the complexities of the problem domain from various perspectives. But, the existing approaches are limited by generating explanations using a language consisting only of domain actions and variables, hindering expressivity. Our approach1 defines higher-level hierarchic abstractions composed of domain actions and variables, facilitating the interpretation of plan actions from various perspectives. Using abstractions, we can map the end users’ domain knowledge, language and interests onto the plan problem domain. Moreover, organising a hierarchy of interpretations facilitates systematic decomposition from high-level perspectives to individual actions or activities.
 
-{% embed url="https://youtu.be/2d6kmK_mb1o" %}
+{% embed url="https://youtu.be/Ut7uDlgJY8k" %}
+Tutorial video for the HLAM system
+{% endembed %}
 
 ### Introduction
 
