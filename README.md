@@ -7,9 +7,19 @@ description: >-
 
 # About Me
 
-Tomas’s research flows through several realities, virtual, augmented and the real one, seeking new ways with Artificial Intelligence to facilitate complex cognitive tasks in simulation, education, health care, cyber security and social sciences. Dr. Tomas Trescak holds a PhD title in Computer Science with specialisation in artificial intelligence from Artificial Intelligence Research Institute, Barcelona, Spain (IIIA) of the Spanish Research Council (CSIC). Since May 2013, he works at Western Sydney University, where in 2016 he incorporated as Lecturer.
-
 ![Dr Tomas Trescak](<.gitbook/assets/CDMS1\_38356 - smaller.jpeg>)
+
+
+
+### Latest News
+
+**May 11, 2022** I am presenting our paper on Agent Assisted Life-Long Education at [AAMAS 2022](https://aamas2022-conference.auckland.ac.nz) in the Blue Sky Ideas Track
+
+{% embed url="https://www.youtube.com/watch?v=WCbT46c-rXc" %}
+
+### **Research**
+
+Tomas’s research flows through several realities, virtual, augmented and the real, seeking new ways with Artificial Intelligence to facilitate complex cognitive tasks in simulation, education, health care, cyber security and social sciences. Dr Tomas Trescak holds a PhD title in Computer Science with a specialisation in artificial intelligence from the Artificial Intelligence Research Institute, Barcelona, Spain (IIIA) of the Spanish Research Council (CSIC). Since May 2013, he works at Western Sydney University, wherein 2016 he was incorporated as Lecturer.
 
 **The topics of my research concern:**
 
@@ -22,9 +32,9 @@ Tomas’s research flows through several realities, virtual, augmented and the r
 * crowd simulations and
 * computational creativity techniques, such as shape grammars.
 
-Dr. Trescak’s main contribution is in facilitation of creation and execution of self-adaptable, interactive normative 3D environments and their subsequent application to the fields of agent-based simulation. During his research, he has developed several techniques and methods and implemented them in the set of open-source tools, used world-wide. These works were published in acclaimed international conferences and journals. Tomas is also multi-awarder researcher and academic, among others receiving in 2015 a Digital Disruptor Award, a gold medal for the best higher education educator by Australian Computer Society, or the Best Innovator award by Unearthed association.
+Dr Trescak’s main contribution is in the facilitation of the creation and execution of self-adaptable, interactive normative 3D environments and their subsequent application to the fields of agent-based simulation. During his research, he has developed several techniques and methods and implemented them in the set of open-source tools, used worldwide. These works were published in acclaimed international conferences and journals. Tomas is also a multi-awarded researcher and academic, among others receiving in 2015 a Digital Disruptor Award, a gold medal for the best higher education educator by the Australian Computer Society, and the Best Innovator award by Unearthed association.
 
-In open source I am a big fan and contributor to several open-source initiatives in:
+In the open source I am a big fan and contributor to several open-source initiatives in:
 
 * React
 * GraphQL
@@ -36,15 +46,15 @@ My ORCID profile page can be found at: https://orcid.org/0000-0002-2540-6002
 
 ![I love AI](https://user-images.githubusercontent.com/2682705/53604690-529e7780-3c09-11e9-8f3f-481e341ee46a.gif)
 
-The raise of Artificial Intelligence and machine learning launched a new industrial revolution, changing ways we perform our routine tasks on daily basis. This revolution is attributed to the immense computational power we control and the vast amount of data that we generate, allowing AI to learn from it and apply on its own goals. Virtual Reality (VR) and Augmented Reality (AR) became one of the major players in this revolution, estimating $100 billion revenue on VR/AR products by 2021.
+The raise of Artificial Intelligence and machine learning launched a new industrial revolution, changing the ways we perform our routine tasks on daily basis. This revolution is attributed to the immense computational power we control and the vast amount of data that we generate, allowing AI to learn from it and apply it to its own goals. Virtual Reality (VR) and Augmented Reality (AR) became the major players in this revolution, estimating $100 billion in revenue on VR/AR products by 2021.
 
-Surprisingly, the crucial connection between AR/VR and AI is currently very weak. Both technologies being very demanding on resources, renders most AI applications impossible to use in AR/VR. Therefore, we need to seek new ways, empowering our tasks with visual power of mixed realities with help from Artificial Intelligence to reduce our cognitive overload and help with decision making in high-stress situations such as cyber security, space exploration, data analytics, healthcare, simulations and much more.
+Surprisingly, the crucial connection between AR/VR and AI is currently very weak. Both technologies being very demanding on resources renders most AI applications impossible to use in AR/VR. Therefore, we need to seek new ways, to empower our tasks with the visual power of mixed realities with help from Artificial Intelligence to reduce our cognitive overload and help with decision making in high-stress situations such as cyber security, space exploration, data analytics, healthcare, simulations and much more.
 
 ## Projects
 
-![https://www.claraworld.com](https://user-images.githubusercontent.com/2682705/53629346-6fff3000-3c61-11e9-8e56-2749edf272a8.png)
+![https://www.claraworld.net](<.gitbook/assets/Screen Shot 2022-05-04 at 9.02.15 am.png>)
 
-I am involved in many multi-disciplinary research projects and I am also avid open source developer. Programming is my life! Please check out the project list on the left. If I would highlight a few, I am particularly proud of [ClaraWorld](https://www.claraworld.net), an online system for teachin programming fundamentals, [Luis](https://www.tomino.gitbook.com/projects/luis), the React component modelling and presentation platform, [DynaForm](https://www.tomino.gitbook.com/projects/dynaform), a dyanmic visual form framework used in many applications, including [DataEric](https://www.tomino.gitbook.com/projects/dataeric), system for facilitation of creation of beautiful, validated data entry forms or [Corpix](https://www.tomino.gitbook.com/projects/corpix), system for management and execution of corporate processes.
+I am involved in many multi-disciplinary research projects and I am also an avid open-source developer. Programming is my life! Please check out the project list on the left. If I would highlight a few, I am particularly proud of [ClaraWorld](https://www.claraworld.net), an online learning system for teaching programming and mathematics.
 
 ![Uruk 3000 B.C.](https://user-images.githubusercontent.com/2682705/53629335-6a094f00-3c61-11e9-8496-18f106694d60.jpg)
 
