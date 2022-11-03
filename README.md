@@ -13,6 +13,10 @@ description: >-
 
 ### Latest News
 
+**November 4, 2022,** We are launching a redesigned marketing experience for JobTune, including the use of a brand-new ASC framework. See the experience at [https://jobfit.trescak.co](https://jobfit.trescak.co)
+
+<figure><img src=".gitbook/assets/jobfit.png" alt=""><figcaption></figcaption></figure>
+
 **May 11, 2022** I am presenting our paper on Agent Assisted Life-Long Education at [AAMAS 2022](https://aamas2022-conference.auckland.ac.nz) in the Blue Sky Ideas Track
 
 {% embed url="https://www.youtube.com/watch?v=WCbT46c-rXc" %}
